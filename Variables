@@ -1,0 +1,9 @@
+import Foundation
+
+// let is immutable
+// var is mutable
+
+let myName = "Vandad"
+let yourName = "Foo"
+
+myName = yourName
